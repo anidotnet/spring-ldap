@@ -82,3 +82,11 @@ and bug fixes for an upcoming version. Please report any problems or bugs in the
 * [Official site](http://www.springframework.org/ldap)
 * [Support forum](http://forum.springframework.org/forumdisplay.php?f=40)
 * [Issue tracker](https://jira.springsource.org/browse/LDAP)
+
+###ACKNOWLEDGEMENT
+
+This project uses YourKit Java Profiler.
+YourKit supports open source projects with its full-featured Java Profiler.
+YourKit, LLC is the creator of [YourKit Java Profiler](https://www.yourkit.com/java/profiler/index.jsp)
+and [YourKit .NET Profiler](https://www.yourkit.com/.net/profiler/index.jsp),
+innovative and intelligent tools for profiling Java and .NET applications.
